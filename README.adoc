@@ -1,0 +1,11 @@
+= sdmon
+
+This tool reads the internal parameters of an SD card (firmware version, bad blocks, erase count numbers, etc.)
+
+== Getting Started
+The code needs to be compiled...
+
+== Example Usage
+```
+./sdmon /dev/mmcblk0
+```
